@@ -9,7 +9,7 @@ export const Layout = ({children}) => {
     <Container>
      <Header/>
      <Head>
-       <title>Zahid Hasan | Full Stack Developer</title>
+       <title>Zahid Hasan | Software Engineer</title>
      </Head>
      <main>{children}</main> 
      <Footer/>

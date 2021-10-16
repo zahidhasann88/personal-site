@@ -13,7 +13,7 @@ const Experience = () => (
           <Nav.Link eventKey="first">Karmasangsthan Limited</Nav.Link>
         </Nav.Item>
         <Nav.Item>
-          <Nav.Link eventKey="second"></Nav.Link>
+          <Nav.Link eventKey="second">Befoward Japan</Nav.Link>
         </Nav.Item>
       </Nav>
     </Col>
@@ -26,6 +26,15 @@ const Experience = () => (
           {/* <Sonnet /> */}
         </Tab.Pane>
         <Tab.Pane eventKey="second">
+        <ListTitle>Frontend Developer</ListTitle>
+        <SectionText>- Work as a Frontend Developer, designing, Intergation and developing user interfaces using angular.
+        <br/>
+        -Adapting interface for modern internet applications using the latest front-end technologies.
+        <br/>
+        -Writing Typescript, SCSS, and HTML.
+        <br/>
+        -Making complex technical and design decisions for Angular projects.
+        </SectionText>
           {/* <Sonnet /> */}
         </Tab.Pane>
       </Tab.Content>

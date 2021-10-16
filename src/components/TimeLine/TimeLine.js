@@ -46,7 +46,7 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-      My name is Zahid Hasan and I am a Fullstack Developer with a focus on web development. I have a versatile skill set and love to dabble in new technologies -- this keeps me current and knowledgeable about the best tools for the job. I have experience working on small and medium projects on front-end and modern back-end, business, and React js.
+      My name is Zahid Hasan and I am a Fullstack Developer with a focus on web development. I have a versatile skill set and love to dabble in new technologies -- this keeps me current and knowledgeable about the best tools for the job. I have experience working on small and medium projects on front-end, React js, Redux, Angular, Rxjs and modern back-end, Node, Express Js, Asp.Net Core.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
