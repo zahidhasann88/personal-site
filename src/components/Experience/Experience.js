@@ -21,8 +21,7 @@ const Experience = () => (
       <Tab.Content>
         <Tab.Pane eventKey="first">
         <ListTitle>Software Developer(Frontend)</ListTitle>
-        <SectionText>- Working in a 5 member team, Responsible for converting ideas to web Application with HTML, CSS, 	Bootstrap, Javascript.<br />
-        - Built a Website for business With HTML, CSS, Javascript.</SectionText>
+        <SectionText>- Working in a 5 member team, Responsible for converting ideas to web Application with HTML, CSS, 	Bootstrap, Javascript. React Js</SectionText>
           {/* <Sonnet /> */}
         </Tab.Pane>
         <Tab.Pane eventKey="second">
