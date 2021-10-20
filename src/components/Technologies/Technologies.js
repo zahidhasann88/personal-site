@@ -20,7 +20,7 @@ const Technologies = () =>  (
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
             Expertise with <br />
-            Angular, Rxjs, React.js, Next js Redux, Gatsby, Vue Js, Javascript (ES6), Typescript HTML & (S)CSS, Shopify.
+            Angular, React, Redux, Vue Js, Javascript (ES6), Typescript HTML & (S)CSS, Shopify.
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -32,7 +32,7 @@ const Technologies = () =>  (
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
             Expertise with <br />
-            C, Node, Express Js, Asp.Net Core, Python(Django), GraphQL/REST and PostgreSQL.
+            C, Node, Express Js, GraphQL/REST and PostgreSQL.
           </ListParagraph>
         </ListContainer>
       </ListItem>

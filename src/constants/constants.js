@@ -28,7 +28,7 @@ export const projects = [
   },
   {
     title: 'Stock Trader',
-    description: "This project was created with vue.js and vuex, the main logic of this project is created with vuex, sharing the information of the stocks between components was good a challenge.",
+    description: "Sharing the information of the stocks in Vue js & Vuex.",
     image: '/images/4.JPG',
     tags: ['Vue', 'Vuex'],
     source: 'https://github.com/zahidhasann88/Vue-Stock-Trader',
