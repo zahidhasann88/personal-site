@@ -27,12 +27,12 @@ export const projects = [
     id: 2,
   },
   {
-    title: 'Resturant App',
-    description: "Built-in React Redux Application it helps you order food online, and it will make your daily life easier.",
-    image: '/images/4.png',
-    tags: ['React', 'Redux'],
-    source: 'https://github.com/zahidhasann88/resturantApp-react',
-    visit: 'https://berneys.netlify.app',
+    title: 'Stock Trader',
+    description: "This project was created with vue.js and vuex, the main logic of this project is created with vuex, sharing the information of the stocks between components was good a challenge.",
+    image: '/images/4.JPG',
+    tags: ['Vue', 'Vuex'],
+    source: 'https://github.com/zahidhasann88/Vue-Stock-Trader',
+    visit: 'https://stocktrader.netlify.app/',
     id: 3,
   },
 ];
