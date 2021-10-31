@@ -32,7 +32,7 @@ const Technologies = () =>  (
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
             Expertise with <br />
-            C, Node, Express Js, GraphQL/REST and PostgreSQL.
+            C, Node, Express Js, Asp.Net Core, Python(django), Java GraphQL/REST and PostgreSQL, MongoDB.
           </ListParagraph>
         </ListContainer>
       </ListItem>

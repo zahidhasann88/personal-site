@@ -25,8 +25,12 @@ const Experience = () => (
           {/* <Sonnet /> */}
         </Tab.Pane>
         <Tab.Pane eventKey="second">
-        <ListTitle>Frontend Developer</ListTitle>
-        <SectionText>- Work as a Frontend Developer, designing, Intergation and developing user interfaces using angular.
+        <ListTitle>Web Developer</ListTitle>
+        <SectionText>- Work as a Web Developer, designing, Intergation and developing user interfaces and API using Angular and .NET.
+        <br/>
+        -Write clean, scalable code using .NET programming languages.
+        <br/>
+        -Improve existing software.
         <br/>
         -Adapting interface for modern internet applications using the latest front-end technologies.
         <br/>
