@@ -1,9 +1,9 @@
 export const projects = [
   {
-    title: 'Facial Recognition',
-    description: "Using React, Node.js, Express & PostgreSQL I'will learn how to build a Full Stack MERN Application - from start to finish. The App is called Facial Recognition and it is a simple face detector app that allows users to detects faces in the images. Register, login, submit image links, access user profile, update the avatar.",
-      image: '/images/1.png',
-      tags: ['React', 'Node', 'Express', 'PostgreSQL', 'Heroku'],
+    title: 'Car Parts Shop',
+    description: "This Angular 12 Car-parts shop theme is designed especially for online stores specialized in selling auto parts, wheels, and tires products, auto parts, equipments, accessories, cars, Vehicle parts, spare parts services, powersport, protective gear, used car or sport accessories parts websites, or car dealers.",
+      image: '/images/home.jpg',
+      tags: ['Angular', 'Bootstrap', 'Typescript', 'SCSS'],
     source: 'https://github.com/zahidhasann88/Face-Recognition-Front-End',
     visit: 'https://face-recognitionn.netlify.app/',
     id: 0,
