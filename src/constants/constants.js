@@ -4,8 +4,8 @@ export const projects = [
     description: "This Angular 12 Car-parts shop theme is designed especially for online stores specialized in selling auto parts, wheels, and tires products, auto parts, equipments, accessories, cars, Vehicle parts, spare parts services, powersport, protective gear, used car or sport accessories parts websites, or car dealers.",
       image: '/images/home.jpg',
       tags: ['Angular', 'Bootstrap', 'Typescript', 'SCSS'],
-    source: 'https://github.com/zahidhasann88/Face-Recognition-Front-End',
-    visit: 'https://face-recognitionn.netlify.app/',
+    source: '',
+    visit: '',
     id: 0,
   },
   {
@@ -27,12 +27,12 @@ export const projects = [
     id: 2,
   },
   {
-    title: 'Stock Trader',
-    description: "Sharing the information of the stocks in Vue js & Vuex.",
-    image: '/images/4.JPG',
+    title: 'Draft Blogs',
+    description: "A blog application making post your regular things.",
+    image: '/images/draft',
     tags: ['Vue', 'Vuex'],
-    source: 'https://github.com/zahidhasann88/Vue-Stock-Trader',
-    visit: 'https://stocktrader.netlify.app/',
+    source: 'https://github.com/zahidhasann88/vue-blogs',
+    visit: '',
     id: 3,
   },
 ];
