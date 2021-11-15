@@ -29,7 +29,7 @@ export const projects = [
   {
     title: 'Draft Blogs',
     description: "A blog application making post your regular things.",
-    image: '/images/draft.jpg',
+    image: '/images/draft.JPG',
     tags: ['Vue', 'Vuex'],
     source: 'https://github.com/zahidhasann88/vue-blogs',
     visit: '',
