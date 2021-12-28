@@ -20,7 +20,7 @@ const Technologies = () =>  (
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
             Expertise with <br />
-            Angular, React, Redux, Vue Js, Javascript (ES6), Typescript HTML & (S)CSS, Shopify.
+            Angular, React, Redux, Javascript(ES6), Typescript HTML & S(CSS).
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -32,7 +32,7 @@ const Technologies = () =>  (
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
             Expertise with <br />
-            C, Node, Express Js, Asp.Net Core, Python(django), Java, GraphQL/REST and PostgreSQL, MongoDB.
+            Node, Express Js, C#(.NET), Python(django), GraphQL/REST.
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -41,10 +41,10 @@ const Technologies = () =>  (
           <DiZend size="3rem" />
         </picture>
         <ListContainer>
-          <ListTitle>UI/UX</ListTitle>
+          <ListTitle>Database</ListTitle>
           <ListParagraph>
             Expertise with <br />
-            tools like Figma, Adobe XD, Illustrator, Photoshop
+            Oracle, Microsoft SQL Server, PostgreSQL.
           </ListParagraph>
         </ListContainer>
       </ListItem>
