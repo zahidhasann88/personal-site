@@ -13,7 +13,7 @@ const Hero = (props) => (
           I Design Develop & Deploy
         </SectionTitle>
         <SectionText>
-        Zahid Hasan is a Fullstack Developer based in Dhaka Bangladesh. he like to code things from scratch, and enjoy bringing ideas to life in the browser. Currently working at <span><a href="">Beforward Japan</a></span> as a Web Developer where he contributes to the High quality applications for E-commerce Platform by making Components with Angular, Rxjs and Typescript and Developing API in .NET etc.
+        I am Zahid Hasan a Fullstack Developer based in Dhaka Bangladesh. I likes to code things from scratch, and enjoys bringing ideas to life in the browser. Currently, I am working at Satcom IT Limited where I contribute to High-quality applications by making Components with Angular, Rxjs, and Typescript and Developing API in .NET, Golang, SQL Server, Oracle, PostgreSQL, etc.
         </SectionText>
         <span><a href="https://docs.google.com/document/d/1EUaY6Jirsp5FETr7U8rivRXHQC8iCUaDkmD900Lg8lA/edit?usp=sharing"><Button>Resume</Button></a></span>
       </LeftSection>
