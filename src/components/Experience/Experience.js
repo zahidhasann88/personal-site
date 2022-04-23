@@ -10,7 +10,7 @@ const Experience = () => (
     <Col sm={3}>
       <Nav variant="outline-info" className="flex-column">
       <Nav.Item>
-          <Nav.Link eventKey="first">Satcom IT LTD</Nav.Link>
+          <Nav.Link eventKey="first">Satcom IT Limited</Nav.Link>
         </Nav.Item>
         <Nav.Item>
           <Nav.Link eventKey="second">PQS Japan</Nav.Link>
@@ -24,19 +24,19 @@ const Experience = () => (
       <Tab.Content>
       <Tab.Pane eventKey="first">
         <ListTitle>Full Stack Engineer <p style={{fontSize: "10px", color: "rgba(255,255,255,0.5)"}}>March  2022 - Present</p></ListTitle>
-        <SectionText>Working as a Full Stack Developer, integrating, Designing and Writing API with Angular, SCSS, TypeScript, .NET Web API, Golang(GORM), SQL Server, Oracle, PostgreSQL.
+        <SectionText>Here I join as a Full Stack Developer. Developed an ERP system using Angular that produces various reports based on our client's transaction. I also developed another Result Processing System using Angular and .NET that processes thousands of student's result each year.
         </SectionText>
           {/* <Sonnet /> */}
         </Tab.Pane>
       <Tab.Pane eventKey="second">
         <ListTitle>Full Stack Engineer <p style={{fontSize: "10px", color: "rgba(255,255,255,0.5)"}}>October 2021 - Present | Part Time(Remote)</p></ListTitle>
-        <SectionText>Work as a Full Stack Developer, integrating, Designing, and developing, and Improving existing software using  .NET Web API and Angular, Typescript, HTML, SCSS, Oracle, SQL Server. 
+        <SectionText>Here I work in an ERP System Improving existing software for an e-commerce platform, writing API in .NET(Dapper) and Integrating into Javascript, Jquery, Angular Js, generating pdf documents with Itextsharp API. and here I also build a Static Web Application for a Chemical Company(Birat Limited) With Angular 12, Typescript, HTML, CSS, Bootstrap. 
         </SectionText>
           {/* <Sonnet /> */}
         </Tab.Pane>
         <Tab.Pane eventKey="third">
         <ListTitle>Software Developer(Frontend) <p style={{fontSize: "10px", color: "rgba(255,255,255,0.5)"}}>December 2020 - June 2021</p></ListTitle>
-        <SectionText>- Working in a 5 member team, Responsible for converting ideas to web Application with HTML, CSS, 	Bootstrap, Javascript. React Js</SectionText>
+        <SectionText>Working in a 5-member team in a job portal system designing UI and fetching data with API Call, Responsible for converting ideas to web applications with Javascript, React, React Hooks, HTML, CSS, Bootstrap.</SectionText>
           {/* <Sonnet /> */}
         </Tab.Pane>
       </Tab.Content>
